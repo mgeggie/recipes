@@ -1,8 +1,7 @@
----
-title: Greek Chicken Marinade
-source: https://foodwishes.blogspot.com/2017/03/grilled-greek-chicken-happy-st-patricks.html
+# Greek Chicken Marinade
+[Original Source](https://foodwishes.blogspot.com/2017/03/grilled-greek-chicken-happy-st-patricks.html)
 
-ingredients:
+## Ingredients
   - 6 to 8 cloves of garlic
   - 2 tablespoons dried oregano
   - 1 teaspoon red pepper flakes
@@ -12,11 +11,14 @@ ingredients:
   - 0.25 cup olive oil
   - 1 tablespoon kosher salt
 
-instructions:
+## Directions
   - Combine ingredients in a bowl and mix thoroughly to combine
   - Marinade chicken for 4-8 hours submerged in marinade
 
-time:
-  preparation: 5 minutes
-  idle: 4-8 hours
-  cooking: 30 minutes
+## Time
+### Preparation
+5 minutes
+### Idle
+4-8 hours
+### Cooking
+30 minutes

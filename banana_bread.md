@@ -1,8 +1,7 @@
----
-title: Banana Bread
-source: https://foodwishes.blogspot.com/2012/01/banana-bread-thats-okay-to-make-early.html
+# Banana Bread
+[Original Source](https://foodwishes.blogspot.com/2012/01/banana-bread-thats-okay-to-make-early.html)
 
-ingredients:
+## Ingredients:
   - 3 ripe bananas
   - 2 cups all-purpose flour
   - 1 teaspoon salt
@@ -15,7 +14,7 @@ ingredients:
   - 1 cup chopped walnuts
   - 0.33 cup dark chocolate chips
 
-instructions:
+## Directions:
   - Preheat oven to 325 F
   - Combine butter and sugar in bowl, cream together
   - Peel and mash bananas into sugar and butter mixture
@@ -26,7 +25,10 @@ instructions:
   - Lightly oil and flour loaf pan(s)
   - Pour batter into loaf pan(s)
 
-time:
-  preparation: 10 minutes
-  idle: 0 minutes
-  cooking: 1 hour 10 minutes
+## Time
+### Preparation
+10 minutes
+### Idle
+0 minutes
+### Cooking
+1 hour 10 minutes
