@@ -2,6 +2,7 @@
 
 ## Main Courses
   - [Greek Chicken Marinade](https://github.com/mgeggie/recipes/blob/master/greek_chicken_marinade.md)
+  - [Greek Lemon Chicken and Potatoes](https://github.com/mgeggie/recipes/blob/master/greek_chicken_and_potatoes.md)
   - [Tourtière - French Canadian Meat Pie](https://github.com/mgeggie/recipes/blob/master/tourtiere.md)
   
 ## Breakfast
