@@ -1,5 +1,5 @@
 # Greek Lemon Chicken and Potatoes
-[Original Source] (https://foodwishes.blogspot.com/2015/04/greek-lemon-chicken-and-potatoes-both.html)
+[Original Source](https://foodwishes.blogspot.com/2015/04/greek-lemon-chicken-and-potatoes-both.html)
 
 ## Ingredients
 - 1 whole chicken or 4 pounds, cut in sections, or 4 pounds of bone-in, skin-on chicken thighs
