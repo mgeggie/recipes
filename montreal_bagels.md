@@ -54,8 +54,8 @@ Yield: 12 100g bagels
 
 - In a large Dutch oven, combine boil water ingredients
 - Heat the Dutch oven on the stovetop to steaming hot, but not boiling
-- Place a baking stone in the oven and preheat to 450F
-- Allow baking stone to heat in the preheated oven for 30 minutes
+- Allow baking stone to heat in the preheated oven for at least 30 minutes
+- Place a baking stone in the oven and preheat to 425F
 
 ### Forming Bagels
 
