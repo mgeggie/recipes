@@ -12,7 +12,7 @@ Yield: 12 100g bagels
 
 #### Dry Ingredients
 
-- 1000g All purpose flour
+- 1030g All purpose flour
 - 2g instant yeast
 - 40g sugar
 - 9g dry malt extract
@@ -20,7 +20,7 @@ Yield: 12 100g bagels
 #### Wet Ingredients
 
 - 1 egg
-- 465g warm water
+- 475g warm water
 - 12ml vegetable oil
 
 ### Toppings
