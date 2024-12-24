@@ -9,7 +9,7 @@ Makes 2 10" diameter, 1.5" deep Tourtière meat pies.
   - 4.5 cups purpose flour
   - 1.5 teaspoons kosher salt
   - 1.5 cups (3 sticks) unsalted butter, sliced, frozen
-  - 11 tablespoons* ice cold water
+  - 20 tablespoons* ice cold water
   - 3 tablespoons white vinegar 
 
   * Add a bit more if the dough isn't pressing together
